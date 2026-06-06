@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: 24f1000895@ds.study.iitm.ac.in
         run: echo "Hello, world!"
+      - name: verify
+        run: echo "verify"
